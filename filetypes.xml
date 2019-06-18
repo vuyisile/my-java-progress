@@ -2,6 +2,7 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern="FakeCreditCardProcessor" type="CLASS" />
+      <mapping pattern="Description" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
 </application>
